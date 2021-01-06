@@ -1,6 +1,6 @@
 # Freecodecamp Project #1 - Tribute Page
 
-This is a Jellyfish tribute page, following the first of the Responsive Web Design Projects on Freecodecamp.org!
+This is a Jellyfish tribute page, following the first of the Responsive Web Design Projects on Freecodecamp.org
 
 # What I Learned
 
